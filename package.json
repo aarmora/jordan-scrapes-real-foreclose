@@ -1,0 +1,28 @@
+{
+	"name": "jordan-scrapes-realforeclose",
+	"version": "1.0.0",
+	"description": "Using puppeteer, Jordan scrapes realforeclose.com.",
+	"main": "./dist/index.js",
+	"scripts": {
+		"start": "tsc && node ./dist/index.js",
+		"build": "tsc"
+	},
+	"keywords": [
+		"javascript",
+		"puppeteer",
+		"typescript",
+		"web",
+		"scraping"
+	],
+	"author": "Jordan Hansen",
+	"license": "ISC",
+	"dependencies": {
+		"json2csv": "^4.5.3",
+		"puppeteer": "^1.20.0",
+		"puppeteer-helpers": "^1.0.10"
+	},
+	"devDependencies": {
+		"@types/json2csv": "^4.5.0",
+		"@types/puppeteer": "^1.19.1"
+	}
+}
