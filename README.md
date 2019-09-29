@@ -8,7 +8,7 @@ Clone the repository and run `npm i`.
 
 After that, you just need to run `npm start` and it'll scrape the games and output the results to auctions.csv.
 
-It is currently targeted at the Miami Dade region. You can change this by changing the `regionDomain` variable at the top of the script in [src/index.ts](https://github.com/aarmora/jordan-scrapes-real-foreclose/blob/b34b849d3e4d184cc01669b78ecc65d5fdef78f8/src/index.ts#L6).
+It is currently targeted at the Miami Dade region. You can change this by changing the `regionDomain` variable at the top of the script in [src/index.ts](https://github.com/aarmora/jordan-scrapes-real-foreclose/blob/b34b849d3e4d184cc01669b78ecc65d5fdef78f8/src/index.ts#L6). Note that I have not tested on these other regions so there are bound to be some quirks.
 
 Denver is the regional domain here:
 
