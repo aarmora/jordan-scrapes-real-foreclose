@@ -12,15 +12,15 @@ It is currently targeted at the Miami Dade region. You can change this by changi
 
 Denver is the regional domain here:
 
-![denver regional domain](http://prntscr.com/pch56f)
+![denver regional domain](https://i.imgur.com/hLZdkEJ.png)
 
 Miami Dade is the regional domain here:
 
-![miami dade regional domain](http://prntscr.com/pch5mk)
+![miami dade regional domain](https://i.imgur.com/nZQD7Xb.png)
 
 Toggle between regions here:
 
-![toggle between regions](http://prntscr.com/pch5zh)
+![toggle between regions](https://i.imgur.com/P5DQ68b.png)
 
 ### Prerequisites
 
