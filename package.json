@@ -23,6 +23,7 @@
 	},
 	"devDependencies": {
 		"@types/json2csv": "^4.5.0",
-		"@types/puppeteer": "^1.19.1"
+		"@types/puppeteer": "^1.19.1",
+		"typescript": "^3.6.4"
 	}
 }

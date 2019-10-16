@@ -22,6 +22,8 @@ Toggle between regions here:
 
 ![toggle between regions](https://i.imgur.com/P5DQ68b.png)
 
+[Full Guide Here](https://javascriptwebscrapingguy.com/jordan-scrapes-real-foreclose/)
+
 ### Prerequisites
 
 Tested on Node v12.4.0 and NPM v6.9.0.
